@@ -26,3 +26,24 @@ console.log("line no 28", password !== confirmPassword); // boolean
 console.log(!true);
 console.log(!false);
 // string comparison
+// var text1 = "A";
+// var text2 = "B";
+// var result = text1 < text2;
+
+// var text1 = "20";
+// var text2 = "5";
+// var result = text1 < text2;
+
+// string addition
+// var text1 = "John";
+// var text2 = "Doe";
+// var text3 = text1 + " " + text2;
+
+// var text1 = "What a very ";
+// text1 += "nice day";
+
+// strings and numbers
+var x = 5 + 5;
+var y = "5" + 5;
+var z = "Hello" + 5;
+
